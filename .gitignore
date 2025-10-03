@@ -1,0 +1,13 @@
+# Some Python related files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
+._.DS_Store
+
+# Specific data folders
+Lab_sessions/lab_session_03/data/images
+
+
+
