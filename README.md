@@ -61,34 +61,35 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |  47  |   1.6   | Thursday  | 20-11-2025 | 08:45 - 10:45 | Francisco  | Lab session    | L02: Mode choice prediction using ANNs                                             | |
 |  48  |   1.7   | Monday    | 24-11-2025 | 15:45 - 17:45 | Sander     | Oral lecture   | Ensembles; Random forest; XGBoost                                                  | |
 |  48  |   1.8   | Wednesday | 26-11-2025 | 08:45 - 10:45 | Francisco  | Oral lecture   | Computer Vision and embeddings                                                     | |
-|  48  |   1.9   | Thursday  | 27-11-2025 | 08:45 - 10:45 | Francisco  | Lab session    | L03: Working with image attractiveness data set                                    | |
+|  48  |   1.9   | Thursday  | 27-11-2025 | 08:45 - 10:45 | Francisco  | Lab session    | L03: Working with image embeddings                                    | |
 |  49  |   2.1   | Monday    | 01-12-2025 | 15:45 - 17:45 | Giacomo    | Oral lecture   |                                                                                    | |
 |  49  |   2.2   | Wednesday | 03-12-2025 | 08:45 - 10:45 | Giacomo    | Oral lecture   |                                                                                    | |
-|  49  |   2.3   | Thursday  | 04-12-2025 | 08:45 - 10:45 | Giacomo    | Lab session    | L04: Working with electricity load data                                            | |
+|  49  |   2.3   | Thursday  | 04-12-2025 | 08:45 - 10:45 | Giacomo    | Lab session    | L04: Explainable AI and energy prediction                                          | |
 |  50  |   2.4   | Monday    | 08-12-2025 | 15:45 - 17:45 | Giacomo    | Oral lecture   |                                                                                    | |
-|  50  |   2.5   | Wednesday | 10-12-2025 | 08:45 - 10:45 | Giacomo    | Lab session    | L05: Working with hourly energy consumption by appliance type                      | |
+|  50  |   2.5   | Wednesday | 10-12-2025 | 08:45 - 10:45 | Giacomo    | Lab session    | L05: Explainable AI of a classification model for appliance usage prediction       | |
 |  50  |   2.6   | Thursday  | 11-12-2025 | 08:45 - 10:45 |            |                |                                                                                    | |
-|  50  |        | Friday    | 12-12-2025 | 08:45 - 10:45 |            | <span style="color:crimson">**Practical exam**</span> | Computer hall exam. JupyterNotebook. No internet, but access to lab sessions with answers  | |
+|  50  |        | Friday    | 12-12-2025 | 09:00 - 11:00 |            | <span style="color:crimson">**Practical exam**</span> | Computer hall exam. JupyterNotebook. No internet, but access to lab sessions with answers  | |
 |  51  |   3.1   | Monday    | 15-12-2025 | 15:45 - 17:45 | Amir       | Group work     | Pitches by TPM researchers for the mini-projects                                   | |
 |  51  |   3.2   | Wednesday | 17-12-2025 | 08:45 - 10:45 | Amir       | Group work     |                                                                                    | |
 |  51  |   3.3   | Thursday  | 18-12-2025 | 08:45 - 10:45 | Amir       | Group work     | Q&A with researchers (possibly online)                                             | |
 |   2  |   3.4   | Monday    | 05-01-2026 | 15:45 - 17:45 | Amir       | Group work     |                                                                                    | |
 |   2  |   3.5   | Wednesday | 07-01-2026 | 08:45 - 10:45 | Amir       | Group work     |                                                                                    | |
-|   2  |   3.7   | Thursday  | 12-01-2026 | 15:45 - 17:30 | Amir       | Presentations  | Presentations of the group projects                                                | |
+|   3  |   3.8   | Monday  | 12-01-2026 | 15:45 - 17:30 | Amir       | Presentations  | Presentations of the group projects                                                | |
+|   3  |   3.8   | Wednesday  | 14-01-2026 | 09:00 - 11:30 |          | | <span style="color:crimson">**Practical exam RESIT**</span> | Computer hall exam. JupyterNotebook. No internet, but access to lab sessions with answers  | |
 |  5  |        | Wednesday   | 28-01-2026 | 09:00 - 11:00 |            | <span style="color:crimson">**Theoretical exam**</span> | Computer hall exam. ANS. ||
 |  15  |        | Wednesday   | 08-04-2026 | 09:00 - 11:00 |            | <span style="color:crimson">**Theoretical exam RESIT**</span> | Computer hall exam. ANS. ||
 
 ### 3.2. Lab Session publication dates
-The course has five lab session. The answers for each lab session will be available on the following dates:
+The course has five lab session. The lab sessions and answers will be available on the following dates:
 
-| Lab session |       Status        | Publication date |
-|:-----------:|:-------------------:|:----------------:|
-| Lab 0       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb)         |  —               |
-| Lab 1       | ⏳ Not yet available| 17-11-2025 08:30 |
-| Lab 2       | ⏳ Not yet available| 24-11-2025 08:30 |
-| Lab 3       | ⏳ Not yet available| 01-12-2025 08:30 |
-| Lab 4       | ⏳ Not yet available| 08-12-2025 08:30 |
-| Lab 5       | ⏳ Not yet available| 11-12-2025 08:30 |
+| Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
+|:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
+|  0   | Lab 0       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+| 46   | Lab 1       | ⏳ 13-11-2025 08:30 | ⏳ 17-11-2025 08:30 |
+| 47   | Lab 2       | ⏳ 20-11-2025 08:30 | ⏳ 24-11-2025 08:30 |
+| 48   | Lab 3       | ⏳ 27-11-2025 08:30 | ⏳ 01-12-2025 08:30 |
+| 49   | Lab 4       | ⏳ 04-12-2025 08:30 | ⏳ 08-12-2025 08:30 |
+| 50   | Lab 5       | ⏳ 10-12-2025 08:30 | ⏳ 10-12-2025 11:00 |
 
 
 ## 3. Q&A forum
@@ -170,14 +171,7 @@ For this option, you need a Google account, Google Chrome web browser, and a sta
 
 * Step 5: Once open, click on "View" >> "Expand sections" on the menu bar.
 
-* Step 6: Importantly, you have to add the following cell to each notebook. This will prepare the data and environment in Google Colab. Add these lines, and replace the `X` for the right Lab Session.
-
-```python
-!git clone https://github.com/TPM034A/Q2_2025
-!pip install -r Q2_2025/requirements2025.txt
-!mv "/content/Q2_2025/Lab_sessions/lab_session_0X/data" /content/data
-```
-
+* Step 6: Importantly, Each notebook has a cell to prepare the data and environment in Google Colab. Uncomment (i.e. remove the '#') the lines related to the Colab set-up in your notebook, see the figure below. Run this cell and wait until finished.
 ![img](https://github.com/TPM034A/Q2_2023/assets/29065260/ee78baca-474f-47c8-b5e1-166630deecc2)
 
 * Step 7: You are all set! You can work on your notebook.
