@@ -75,7 +75,7 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |   2  |   3.4   | Monday    | 05-01-2026 | 15:45 - 17:45 | Amir       | Group work     |                                                                                    | |
 |   2  |   3.5   | Wednesday | 07-01-2026 | 08:45 - 10:45 | Amir       | Group work     |                                                                                    | |
 |   3  |   3.8   | Monday  | 12-01-2026 | 15:45 - 17:30 | Amir       | Presentations  | Presentations of the group projects                                                | |
-|   3  |   3.8   | Wednesday  | 14-01-2026 | 09:00 - 11:30 |          | | <span style="color:crimson">**Practical exam RESIT**</span> | Computer hall exam. JupyterNotebook. No internet, but access to lab sessions with answers  | |
+|   3  |   3.8   | Wednesday  | 14-01-2026 | 09:00 - 11:30 |          | <span style="color:crimson">**Practical exam RESIT**</span> | Computer hall exam. JupyterNotebook. No internet, but access to lab sessions with answers  | |
 |  5  |        | Wednesday   | 28-01-2026 | 09:00 - 11:00 |            | <span style="color:crimson">**Theoretical exam**</span> | Computer hall exam. ANS. ||
 |  15  |        | Wednesday   | 08-04-2026 | 09:00 - 11:00 |            | <span style="color:crimson">**Theoretical exam RESIT**</span> | Computer hall exam. ANS. ||
 
