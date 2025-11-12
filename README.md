@@ -55,7 +55,7 @@ Please see below the schedule of the lectures and lab sessions, and the calendar
 |  46  |   0.0   |           |            |               |            | Lab session    | L0: Basics of python and data analysis                                             | [Lab session 0](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |  46  |   1.1   | Monday    | 10-11-2025 | 15:45 - 17:45 | Sander     | Opening        | Learning Objectives, Set-up, Scope, Planning, Expectations; What is ML?            | |
 |  46  |   1.2   | Wednesday | 12-11-2025 | 08:45 - 10:45 | Sander     | Oral lecture   | Learning, Generalisation, Model dev, Regression, Geospatial data                   | |
-|  46  |   1.3   | Thursday  | 13-11-2025 | 08:45 - 10:45 | Francisco  | Lab session    | L01: Discover, explore and visualise data of liveability in the Netherlands        | |
+|  46  |   1.3   | Thursday  | 13-11-2025 | 08:45 - 10:45 | Francisco  | Lab session    | L01: Discover, explore and visualise data of liveability in the Netherlands        | [Lab session 1](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb)|
 |  47  |   1.4   | Monday    | 17-11-2025 | 15:45 - 17:45 | Sander     | Oral lecture   | Decision trees; Model performance metrics                                          | |
 |  47  |   1.5   | Wednesday | 19-11-2025 | 08:45 - 10:45 | Sander     | Oral lecture   | ANNs; training; tuning; k-fold                                                     | |
 |  47  |   1.6   | Thursday  | 20-11-2025 | 08:45 - 10:45 | Francisco  | Lab session    | L02: Mode choice prediction using ANNs                                             | |
@@ -85,7 +85,7 @@ The course has five lab session. The lab sessions and answers will be available 
 | Week | Lab session | Publication date<br>Lab session | Publication date<br>Answers |
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
 |  0   | Lab 0       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
-| 46   | Lab 1       | ⏳ 13-11-2025 08:30 | ⏳ 17-11-2025 08:30 |
+| 46   | Lab 1       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | ⏳ 17-11-2025 08:30 |
 | 47   | Lab 2       | ⏳ 20-11-2025 08:30 | ⏳ 24-11-2025 08:30 |
 | 48   | Lab 3       | ⏳ 27-11-2025 08:30 | ⏳ 01-12-2025 08:30 |
 | 49   | Lab 4       | ⏳ 04-12-2025 08:30 | ⏳ 08-12-2025 08:30 |
