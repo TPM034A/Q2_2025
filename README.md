@@ -131,21 +131,25 @@ If you are unfamiliar with Python, we recommend completing **lab session 0** aft
 
 *Python environments function like isolated sandboxes, each with its own versions of Python and packages. You can create, export, list, update, and remove environments as needed. Moving between environments, known as “activating” an environment, allows you to work with different setups for specific projects. When you’re finished with an environment, you can simply “deactivate” it to return to your default settings.*
 
-For this course, we have prepared the Python evironment as recipe. With this recipe, Anaconda can create the same coding environment for all of you. The recipe can be found in this repo (`tpm034a_env.yaml`).
-
-#### SETUP 1.2: Creating an environment from an `env.yaml` file
- * Download and unzip the `tpm034a_env` file to your computer ([download link](https://github.com/TPM034A/Q2_2025/raw/refs/heads/main/tpm034a_env.zip))
+#### SETUP 1.2: Creating an new EMPTY environment in Anaconda 
  * Open Anaconda Navigator:
     - (1) Go to “Environments” in the left sidebar.
-    - (2) Click on “Import”
-    - (3) From your local drive, import the file you just downloaded (*.yaml)
-    - (4) Give the environment a name (e.g., tmp034a)
-    - (5) Keep the option “Overwrite exisiting environment” UNchecked. 
-    - (6) Click on import (Depending on the speed of your connection, this step will take a while (but no less than 15-30 minutes))
+    - (2) Click on “Create”
+    - (3) Give the environment a name (e.g., tmp034a)
+    - (4) Click on Python
+    - (5) Select Python 3.12.11 on the list (or any 3.12.xx) 
+    - (6) Click on create (Depending on the speed of your connection, this step will take a while)
     ![Instructions for importing a env from yml](/assets/img_imp_env.png)
+
+#### SETUP 1.3: Installing the dependencies using the `requirements2025.txt` file
+ * Download the `requirements2025.txt` file to your computer ([download link](https://github.com/TPM034A/Q2_2025/raw/refs/heads/main/requirements2025.txt))
+ * Open Anaconda Navigator:
+    - (1) Go to “Environments” in the left sidebar.
+    - (2) Click on the "green play sign" of the environment we just created (e.g., tpm034a)
+    - (3) Select open terminal an run: ```pip install -r [PATH OF YOUR requirements2025.txt]``` (e.g., ) ```pip install -r [PATH OF YOUR users/peter/downloads/requirements2025.txt```
  * Once you have the environment ready. We have to choose an interpreter for activating the environment.
 
-#### SETUP 1.3: Using the new environment
+#### SETUP 1.4: Using the new environment
  * Open Anaconda Navigator:
     - (1) Go to “Home” in the left sidebar.
     - (2) In the scroll menu, select your newly created environment (e.g., tmp034a).
