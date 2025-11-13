@@ -146,7 +146,7 @@ If you are unfamiliar with Python, we recommend completing **lab session 0** aft
  * Open Anaconda Navigator:
     - (1) Go to “Environments” in the left sidebar.
     - (2) Click on the "green play sign" of the environment we just created (e.g., tpm034a)
-    - (3) Select open terminal an run: ```pip install -r [PATH OF YOUR requirements2025.txt]``` (e.g., ) ```pip install -r [PATH OF YOUR users/peter/downloads/requirements2025.txt```
+    - (3) Select open terminal an run: ```pip install -r [PATH OF YOUR requirements2025.txt]``` (e.g., ) ```pip install -r users/peter/downloads/requirements2025.txt```
  * Once you have the environment ready. We have to choose an interpreter for activating the environment.
 
 #### SETUP 1.4: Using the new environment
