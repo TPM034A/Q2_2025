@@ -153,7 +153,7 @@ If you are unfamiliar with Python, we recommend completing **lab session 0** aft
  * Open Anaconda Navigator:
     - (1) Go to “Home” in the left sidebar.
     - (2) In the scroll menu, select your newly created environment (e.g., tmp034a).
-    - (3) Choose the interpreter of your preferences. Click on "install", and then "lunch". The course team suggest VS Code. 
+    - (3) Choose the interpreter of your preferences. Click on "install", and then "launch". The course team suggest VS Code. 
     ![Instructions for activating the new env](/assets/img_act_env.png)
 * If everything was installed properly, the interpreter of your preferences in now opening with the env we just created.
 
