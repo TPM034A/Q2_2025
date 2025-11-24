@@ -86,7 +86,7 @@ The course has five lab session. The lab sessions and answers will be available 
 |:----:|:-----------:|:--------------------------------:|:------------------------------------------:|
 |  0   | Lab 0       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 | 46   | Lab 1       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_solutions/lab_session_01/lab_session_01.ipynb) |
-| 47   | Lab 2       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb) | ⏳ 24-11-2025 08:30 |
+| 47   | Lab 2       | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb) | ✅ [Available](https://github.com/TPM034A/Q2_2025/blob/main/Lab_solutions/lab_session_02/lab_session_02.ipynb) |
 | 48   | Lab 3       | ⏳ 26-11-2025/ After the lecture | ⏳ 01-12-2025 08:30 |
 | 49   | Lab 4       | ⏳ 03-12-2025/ After the lecture | ⏳ 08-12-2025 08:30 |
 | 50   | Lab 5       | ⏳ 09-12-2025/ After the lecture | ⏳ 10-12-2025 11:00 |
